@@ -1,13 +1,13 @@
 name: EventDelay
-version: '3.0.1'
+version: '1.0'
 main: me.zaca.eventDelay.Main
 api-version: '1.13'
 prefix: EventDelay
-authors: [ TreexStudio ]
+authors: [ ZacaDeveloper ]
 description: Удобный менеджер ивентов
 softdepend:
   - PlaceholderAPI
-website: https://dsc.gg/treexstudio
+website: t.me/Xiamonov
 load: POSTWORLD
 commands:
   event: {}
